@@ -1,27 +1,32 @@
+<!-- Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey,%20I'm%20Drew!&fontSize=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Drew%20Manley&fontSize=48&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <b>AI Systems • Developer Tooling • Evaluation & Reliability</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_GITHUB_URL">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_WEBSITE_URL">
-    <img height="40" src="https://img.icons8.com/ios-filled/50/domain.png"/>
+  <a href="https://YOUR_SITE.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About
 
 ```yaml
 name: Drew Manley
-location: Germany 🌍
-current_focus:
+location: Germany 🇩🇪
+focus:
   - AI systems
   - Developer tooling
   - Evaluation & reliability
@@ -32,11 +37,20 @@ interests:
 currently_learning:
   - Advanced LLM evaluation
   - Scalable AI infrastructure
-fun_fact: I enjoy breaking systems to make them better
-🚀 Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="165"/> </p>
-🐍 Contribution Snake
+fun_fact: I like breaking systems to understand how to make them better
+🧰 Tech Stack
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> </p> <p align="center"> PyTorch • OpenAI APIs • LangChain • Braintrust • AWS • Vercel </p>
+🚀 What I Work On
+LLM evaluation frameworks and benchmarks
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
+Agent reliability and failure analysis
+
+Developer tooling for AI workflows
+
+Infra that scales without becoming cursed
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=drewmanley16&show_icons=true&theme=transparent&hide_border=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="150"/> </p>
+🐍 Contribution Graph
+<p align="center"> <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> ```
