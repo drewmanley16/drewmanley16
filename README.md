@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/drewmanley/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/drewmanley16">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://YOUR_SITE.com">
+  <a href="https://drewman.netlify.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -22,8 +22,7 @@
 
 ## 🧠 About
 
-Building reliable AI systems and developer tooling.  
-Currently focused on evaluation, infrastructure, and making models behave.
+Student at the University of Oregon. Machine Learning at Zendesk. Software Engineering at PayPal. Currently focused on evaluation, infrastructure, and making models behave.
 
 ---
 
