@@ -1,48 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Drew%20Manley&fontSize=44&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <b>Machine Learning Engineer @ Zendesk</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/drewmanley/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/drewmanley16">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://drewman.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+# drew manley
+cs @ u of o · ml @ zendesk · swe @ paypal
 
 ---
 
-## 🧠 About
-
-Student at the University of Oregon. Machine Learning at Zendesk. Software Engineering at PayPal. Currently focused on evaluation, infrastructure, and making models behave.
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
-</p>
-
-<p align="center">
-  LLMs • Evaluation • AI Infrastructure • Developer Tooling
-</p>
+i build things that make models behave and engineers faster.  
+mostly eval infrastructure, ai tooling, and whatever seems interesting that week.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+**stack**  
+`python` `pytorch` `typescript` `react` `docker` `llms`
+
+---
+
+**links**  
+[linkedin](https://www.linkedin.com/in/drewmanley/) · [site](https://drewman.netlify.app/) · [github](https://github.com/drewmanley16)
